@@ -1,5 +1,8 @@
 # Housing-price-predictor
 Predict housing price index using a machine learning model (Polynomial Ridge Regression) with a Django web interface and deployment via Hugging Face and ngrok
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Umama123/Housing-price-predictor-/blob/main/ML_A_03.ipynb)
+
 # 🏠 Housing Price Index Predictor (ML + Django)
 
 This project predicts the **House Price Index (HPI)** using a **Polynomial Ridge Regression** model trained on macroeconomic indicators. It features a web UI built with **Django** and deployed through **Hugging Face** and **ngrok**.
